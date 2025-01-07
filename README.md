@@ -33,12 +33,12 @@ If you want to check out the project locally:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Kynjii/Assemble-Game--React.git
+   git clone https://github.com/Kynjii/Assemble-Game.git
    ```
 
 2. Navigate to the project folder:
    ```bash
-   cd Assemble-Game--React
+   cd Assemble-Game
    ```
 
 3. Install dependencies:
